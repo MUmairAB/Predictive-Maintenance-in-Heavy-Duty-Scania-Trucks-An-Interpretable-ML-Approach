@@ -41,3 +41,7 @@ Temporary Items
 # Temporary files
 *.tmp
 *.temp
+
+# SCANIA Dataset — too large for GitHub (download via Download_Dataset.ipynb)
+Project/Code/SCANIA Dataset/
+Project/Code/SCANIA Dataset.zip
